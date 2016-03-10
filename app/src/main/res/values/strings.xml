@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title_activity_punto_1">punto_1</string>
+    <string name="calculator">Calculator</string>
+    <string name="number1">Number1:</string>
+    <string name="number2">Number2:</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multi">Mult</string>
+    <string name="div">Div</string>
+    <string name="Areas">Areas</string>
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Barrancabermeja</item>
+        <item>Bucaramanga</item>
+        <item>Bogota</item>
+
+    </string-array>
+</resources>
